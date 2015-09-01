@@ -1,3 +1,5 @@
+# Bricks 3.0
+
 ## General Materials
 * [Project Introduction, including Tweet](#projectIntro)
 * [Schedule of Standing Meetings](#meetingSchedule)
@@ -33,8 +35,15 @@
 * User Manual
 * Executable Code and Instructions
 
+## General Materials
+
 ###<a name="projectIntro"></a> Project Introduction
-* Bricks 3.0 is an interactive programming tool for teaching students how to program.
+
+Bricks 2.0 is a web application that is used in COMP 110 to teach students how to program.  The professor assigns coding problems to students, who use Bricks to write their solution to each problem and submit it. Bricks automatically grades each problem for correctness and style.  Students can submit questions for problems and receive answers to their questions, and the professor is easily able to see the status and progress of all of the students in the class.
+
+Bricks 3.0 adds pair programming functionality to Bricks, and it enhances the syle checking of the students' programs.
+#### Tweet
+Bricks 3.0 is a tool used to teach students how to program.  It supports pair programming and advanced style analysis of students' code.
 
 ###<a name="meetingSchedule"></a> Schedule of Standing Meetings
 * We meet in person with Professor Pozefsky on Thursdays 8:00-8:30 AM
