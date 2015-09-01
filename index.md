@@ -59,4 +59,8 @@ Bricks 3.0 is a tool used to teach students how to program.  It supports pair pr
 
 ###<a name="teamRules"></a> Team Rules
 * Team behavior
+    * Respond to all emails within 24 hours.
+    * If a teammate is >= 10 minutes late for a meeting, then the meeting should start anyways.
+    * If a teammate does not respond to something in the alloted time frame, then the other teammates may decide what to do without him.
+    * If a teammate feels that they will miss a deadline, then they should notify the other teammates ASAP, and they *must* notify the other teammates within at least 48 hours of the deadline.
 * Coding practices
