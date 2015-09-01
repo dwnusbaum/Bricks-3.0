@@ -1,4 +1,5 @@
-# Bricks 3.0
+# Bricks 3.0 #
+[View on Github](https://github.com/el-devo/Bricks-3.0)
 
 ## General Materials
 * [Project Introduction, including Tweet](#projectIntro)
