@@ -49,7 +49,7 @@ Bricks 3.0 is a tool used to teach students how to program.  It supports pair pr
 ###<a name="meetingSchedule"></a> Schedule of Standing Meetings
 * We meet in person with Professor Pozefsky on Thursdays 8:00-8:30 AM
 * We meet in person with Professor Stotts on Thursdays 2:00-2:30 PM
-* We meet in person together on Thursdays 2:30-3:00 PM
+* We meet in person together on Fridays 2:45-3:15 PM
 
 ###<a name="contactInfoAndRoles"></a> Contact Info and Team Roles
 * Dakota Crawford (ddcrowde@live.unc.edu): Project and client manager
