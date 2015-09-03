@@ -11,7 +11,7 @@
 * Related Links
 
 ## Requirements Deliverables
-* Concept
+* [Concept](#concept)
 * User Stories
 * Personas
 * User Types and Use Cases
@@ -43,8 +43,6 @@
 Bricks 2.0 is a web application that is used in COMP 110 to teach students how to program.  The professor assigns coding problems to students, who use Bricks to write their solution to each problem and submit it. Bricks automatically grades each problem for correctness and style.  Students can submit questions for problems and receive answers to their questions, and the professor is easily able to see the status and progress of all of the students in the class.
 
 Bricks 3.0 adds pair programming functionality to Bricks, and it enhances the syle checking of the students' programs.
-#### Tweet
-Bricks 3.0 is a tool used to teach students how to program.  It supports pair programming and advanced style analysis of students' code.
 
 ###<a name="meetingSchedule"></a> Schedule of Standing Meetings
 * We meet in person with Professor Pozefsky on Thursdays 8:00-8:30 AM
@@ -64,3 +62,19 @@ Bricks 3.0 is a tool used to teach students how to program.  It supports pair pr
     * If a teammate does not respond to something in the alloted time frame, then the other teammates may decide what to do without him.
     * If a teammate feels that they will miss a deadline, then they should notify the other teammates ASAP, and they *must* notify the other teammates within at least 48 hours of the deadline.
 * Coding practices
+
+## Deliverables
+
+###<a name="concept"></a> Concept
+
+Bricks 2.0 is a web application that is used in COMP 110 to teach students how to program.  The professor assigns coding problems to students, who use Bricks to write their solution to each problem and submit it. Bricks automatically grades each problem for correctness and style.  Students can submit questions for problems and receive answers to their questions, and the professor is easily able to see the status and progress of all of the students in the class.
+
+We've been tasked with building the next version of the platform - Bricks 3.0. This new version shall include the following new features and/or enhancemets: 
+* Pair programming functionality allowing two or more students to work on a programming assignment as the same time
+* Enhancements to the style checking of student's code
+* Design and layout updates
+
+All in all, our goal is to make it easier for the professor to teach the class using Bricks, while simultaneously adding additional features and making the application simple for the students, so they can learn how to program quickly and more effectively.
+
+#### Tweet
+Bricks 3.0 is a tool used to teach students how to program.  It supports pair programming and advanced style analysis of students' code.
