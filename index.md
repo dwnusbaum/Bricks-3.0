@@ -11,8 +11,8 @@
 * Related Links
 
 ## Requirements Deliverables
-* [Concept](/concept.html)
-* [User Stories](/user_stories.html)
+* [Concept](/Bricks-3.0/concept.html)
+* [User Stories](/Bricks-3.0/user_stories.html)
 * Personas
 * User Types and Use Cases
 * Requirements
