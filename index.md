@@ -36,6 +36,8 @@
 * User Manual
 * Executable Code and Instructions
 
+---
+
 ## General Materials
 
 ###<a name="projectIntro"></a> Project Introduction
