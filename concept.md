@@ -12,4 +12,6 @@ All in all, our goal is to make it easier for the professor to teach the class u
 ## Tweet
 Bricks 3.0 is a tool used to teach students how to program. It supports pair programming so that students can learn to code together.
 
+---
+
 [Back to main page](/Bricks-3.0/)

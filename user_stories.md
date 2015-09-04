@@ -4,4 +4,6 @@
 
 2. As a professor, I want to be able to assign problems to the students which they are able to complete in pairs.  When they turn in the assignment, I want it to be graded once, and I want to be able to see exactly who worked together on each problem.
 
+---
+
 [Back to main page](/Bricks-3.0/)
