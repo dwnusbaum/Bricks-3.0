@@ -12,7 +12,7 @@
 
 ## Requirements Deliverables
 * [Concept](#concept)
-* User Stories
+* [User Stories](user_stories.html)
 * Personas
 * User Types and Use Cases
 * Requirements
@@ -69,7 +69,7 @@ Bricks 3.0 adds pair programming functionality to Bricks, and it enhances the sy
 
 Bricks 2.0 is a web application that is used in COMP 110 to teach students how to program.  The professor assigns coding problems to students, who use Bricks to write their solution to each problem and submit it. Bricks automatically grades each problem for correctness and style.  Students can submit questions for problems and receive answers to their questions, and the professor is easily able to see the status and progress of all of the students in the class.
 
-We've been tasked with building the next version of the platform - Bricks 3.0. This new version shall include the following new features and/or enhancements: 
+We've been tasked with building the next version of the platform - Bricks 3.0. This new version shall include the following new features and/or enhancements:
 
 * Pair programming functionality allowing two or more students to work on a programming assignment as the same time
 * Enhancements to the style checking of student's code
