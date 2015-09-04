@@ -1,4 +1,4 @@
-# Bricks 3.0 #
+# Bricks 3.0
 [View on Github](https://github.com/el-devo/Bricks-3.0)
 
 ## General Materials
@@ -12,7 +12,7 @@
 
 ## Requirements Deliverables
 * [Concept](#concept)
-* [User Stories](user_stories.html)
+* [User Stories](/user_stories.html)
 * Personas
 * User Types and Use Cases
 * Requirements
